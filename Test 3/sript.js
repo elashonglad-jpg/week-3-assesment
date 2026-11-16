@@ -17,6 +17,4 @@ for (let i=1; i<=20; i++) {
 }
 console.log("The sum is:" + sum )
 
-for (let i=1; i<=20; i-- ) {
-    console.log (i)
-}
+
